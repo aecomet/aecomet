@@ -15,4 +15,4 @@ Hi, there 🐣
 
 ## More Info
 
-[here](https://github.com/hiyoko3/hiyoko3.github.io)
+[here](https://hiyoko3.github.io/)
