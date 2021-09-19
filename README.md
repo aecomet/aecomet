@@ -11,8 +11,11 @@ Hi, there 🐣
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyoko3&theme=dracula" alt="hiyoko3" /></a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoko3&theme=dark)](https://github.com/hiyoko3) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoko3&theme=dark&&layout=compact)](https://github.com/hiyoko3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiyoko3&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiyoko3&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiyoko3&theme=dracula)
 
 ## More Info
 
-[here](https://hiyoko3.github.io/)
+# [here](https://hiyoko3.github.io/)
