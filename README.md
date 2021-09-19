@@ -1,7 +1,8 @@
 Hi, there 🐣
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiyoko3&label=Profile%20views&color=0e75b6&style=flat" alt="hiyoko3" /> </p>
+
+### [My Portfolio](https://hiyoko3.github.io/)
 
 <h2 align="left">Languages and Tools:</h3>
 
@@ -15,5 +16,3 @@ Hi, there 🐣
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiyoko3&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiyoko3&theme=dracula)
-
-# [My Portfolio](https://hiyoko3.github.io/)
