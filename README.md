@@ -10,9 +10,9 @@ Hi, there 🐣
 
 ## Github
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyoko3&theme=dracula" alt="hiyoko3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiyoko3&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="hiyoko3" /></a> </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiyoko3&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiyoko3&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiyoko3&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiyoko3&theme=dracula)
