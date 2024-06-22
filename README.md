@@ -63,7 +63,7 @@
 
 ## Github
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=narugit&show_icons=true&theme=monokai)](https://github.com/narugit)
+[![github stats](https://github-readme-stats.vercel.app/api?username=aecomet&show_icons=true&theme=monokai)](https://github.com/aecomet)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aecomet&show_icons=true&locale=en&layout=compact" alt="aecomet" /></p>
 
