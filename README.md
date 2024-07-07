@@ -1,5 +1,5 @@
 <h1 align="center">aecomet</h1>
-<h3 align="center">An application developer in a game company</h3>
+<h3 align="center">An application developer</h3>
 
 <h3 align="center"><a href="https://aecomet.github.io/" target="_blank">My Portfolio</a></h3>
 
